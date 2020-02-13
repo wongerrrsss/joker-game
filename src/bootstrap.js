@@ -57,3 +57,14 @@ const cardGame = {
 // Make it so that you are playing against one other person "Gertie"
 
 // console.log(player(prompt))
+
+// end of game prompt 
+
+alert("\nYOU WON! AND YOU HAVE COLLECTED ${currentWallet}!!! That's alot!")
+alert("I'm sorry but you did not win, you have a balance of ${currentWallet}, would you like to play again? ")
+
+//  do an if/else statement and only ask if they would like to play again 
+// if there current wallet is > $200
+// if {currentWallet > 200} return "Would you like to play again"
+// or something like that...
+// else return "Come back and see us again!!!"
