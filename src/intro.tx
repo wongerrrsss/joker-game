@@ -1,7 +1,8 @@
 Assign values, point system
 2 = 15 points
 8 = reverse, go again
-J, K, Q = 25 points
+J, K, Q, A = 25 points
 Joker = 40 points
 
-The game will have one round
+The game will have one round played with one other person
+Each person will start will seven cards, you cannot start with (J, Q, A, K, Joker, 2, 8)
